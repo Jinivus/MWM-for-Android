@@ -3,6 +3,7 @@
 	<name>MetaWatch</name>
 	<comment></comment>
 	<projects>
+		<project>ActionBarSherlock4.20</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
